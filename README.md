@@ -9,22 +9,6 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Shadrack Odielo, an aspiring w
 - 🌱 Always eager to learn and explore new technologies in the web development world.
 - 🤝 Open to collaborations and eager to contribute to exciting projects.
 
-## Projects
-
-Here are some of the projects I've worked on during my journey:
-
-1. **Project Title 1**
-   Description: A web application built using JavaScript and Node.js that allows users to track their daily tasks and productivity.
-   Tech Stack: JavaScript, Node.js, Express.js, MongoDB
-
-2. **Project Title 2**
-   Description: A Python-based script to automate file organization and cleaning on your computer.
-   Tech Stack: Python, bash
-
-3. **Project Title 3**
-   Description: A simple C program that solves a classic algorithmic problem (e.g., Fibonacci sequence).
-   Tech Stack: C
-
 ## ALX Software Engineering Course
 
 I'm currently enrolled in a 12-month intensive software engineering course at ALX. Throughout this program, I've been sharpening my coding skills and diving deep into various aspects of web development.
